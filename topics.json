@@ -33,15 +33,5 @@
         { "name": "Opposing Forces", "def": "TODO" }
       ]
     }
-  ],
-  "characters": [
-    {
-      "name": "Yuzu",
-      "desc": "Arcadian defender"
-    },
-    {
-      "name": "Ponzu",
-      "desc": "Arcadian defender"
-    }
   ]
 }
