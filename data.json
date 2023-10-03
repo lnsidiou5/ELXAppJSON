@@ -1,0 +1,47 @@
+{
+  "topics": [
+    {
+      "name": "Properties of Matter",
+      "current": true,
+      "terms": [
+        { "name": "Dissolve", "def": "TODO" },
+        { "name": "Water", "def": "TODO" },
+        { "name": "Solution", "def": "TODO" },
+        { "name": "Solids", "def": "TODO" },
+        { "name": "Mixture", "def": "TODO" },
+        { "name": "Physical Properties", "def": "TODO" }
+      ]
+    },
+    {
+      "name": "Forms of Energy",
+      "current": false,
+      "terms": [
+        { "name": "Light", "def": "TODO" },
+        { "name": "Heat/Thermal Energy", "def": "TODO" },
+        { "name": "Energy (Movement)", "def": "TODO" },
+        { "name": "Energy (Change)", "def": "TODO" }
+      ]
+    },
+    {
+      "name": "Forces and Changes in Motion",
+      "current": false,
+      "terms": [
+        { "name": "Gravity", "def": "TODO" },
+        { "name": "Push", "def": "TODO" },
+        { "name": "Pull", "def": "TODO" },
+        { "name": "More Force = More Motion", "def": "TODO" },
+        { "name": "Opposing Forces", "def": "TODO" }
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "name": "Yuzu",
+      "desc": "Arcadian defender"
+    },
+    {
+      "name": "Ponzu",
+      "desc": "Arcadian defender"
+    }
+  ]
+}
