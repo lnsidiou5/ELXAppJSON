@@ -1,6 +1,7 @@
 {
   "topics": [
     {
+      "id": 0,
       "name": "Properties of Matter",
       "current": true,
       "terms": [
@@ -13,6 +14,7 @@
       ]
     },
     {
+      "id": 1,
       "name": "Forms of Energy",
       "current": false,
       "terms": [
@@ -23,6 +25,7 @@
       ]
     },
     {
+      "id": 2,
       "name": "Forces and Changes in Motion",
       "current": false,
       "terms": [
