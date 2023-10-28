@@ -1,39 +1,85 @@
 {
+  "version": "1.0",
   "topics": [
     {
       "id": 0,
       "name": "Properties of Matter",
       "current": true,
-      "terms": [
-        { "name": "Dissolve", "def": "TODO" },
-        { "name": "Water", "def": "TODO" },
-        { "name": "Solution", "def": "TODO" },
-        { "name": "Solids", "def": "TODO" },
-        { "name": "Mixture", "def": "TODO" },
-        { "name": "Physical Properties", "def": "TODO" }
+      "sets": [
+        {
+          "id": "A",
+          "terms": [
+            { "name": "Dissolve", "def": "To \"disappear\" into a liquid through mixing" },
+            { "name": "Water", "def": "A molecule that consists of 2 Hydrogen and 1 Oxygen atom" },
+            { "name": "Solution", "def": "A mixture of two or more substances that stays evenly mixed" },
+          ]
+        },
+        {
+          "id": "B",
+          "terms": [
+            { "name": "Solid", "def": "A state of matter that keeps its own shape instead of changing to the shape of its container" },
+            { "name": "Mixture", "def": "A combination of two or more substances that can be separated by physical means" },
+            { "name": "Physical Properties", "def": "Characteristics that can be observed or measured without changing the composition of a substance" }
+          ]
+        }
       ]
     },
     {
       "id": 1,
       "name": "Forms of Energy",
       "current": false,
-      "terms": [
-        { "name": "Light", "def": "TODO" },
-        { "name": "Heat/Thermal Energy", "def": "TODO" },
-        { "name": "Energy (Movement)", "def": "TODO" },
-        { "name": "Energy (Change)", "def": "TODO" }
+      "sets": [
+        {
+          "id": "A",
+          "terms": [
+            { "name": "Light", "def": "A form of energy that travels in straight lines" }
+          ]
+        },
+        {
+          "id": "B",
+          "terms": [
+            { "name": "Heat/Thermal Energy", "def": "A form of energy that transfers from a warmer object to a colder object" }
+          ]
+        },
+        {
+          "id": "C",
+          "terms": [
+            { "name": "Energy (Movement)", "def": "Energy can be used to move objects" }
+          ]
+        },
+        {
+          "id": "D",
+          "terms": [
+            { "name": "Energy (Change)", "def": "Energy can create changes in objects" }
+          ]
+        }
       ]
     },
     {
       "id": 2,
       "name": "Forces and Changes in Motion",
       "current": false,
-      "terms": [
-        { "name": "Gravity", "def": "TODO" },
-        { "name": "Push", "def": "TODO" },
-        { "name": "Pull", "def": "TODO" },
-        { "name": "More Force = More Motion", "def": "TODO" },
-        { "name": "Opposing Forces", "def": "TODO" }
+      "sets": [
+        {
+          "id": "A",
+          "terms": [
+            { "name": "Gravity", "def": "TODO" },
+            { "name": "Push", "def": "TODO" },
+            { "name": "Pull", "def": "TODO" }
+          ]
+        },
+        {
+          "id": "B",
+          "terms": [
+            { "name": "More Force = More Motion", "def": "The greater the force, the greater the change in motion " }
+          ]
+        },
+        {
+          "id": "C",
+          "terms": [
+            { "name": "Opposing Forces", "def": "Forces that are in opposite directions of eachother" }
+          ]
+        }
       ]
     }
   ]
