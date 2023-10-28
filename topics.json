@@ -11,7 +11,7 @@
           "terms": [
             { "name": "Dissolve", "def": "To \"disappear\" into a liquid through mixing" },
             { "name": "Water", "def": "A molecule that consists of 2 Hydrogen and 1 Oxygen atom" },
-            { "name": "Solution", "def": "A mixture of two or more substances that stays evenly mixed" },
+            { "name": "Solution", "def": "A mixture of two or more substances that stays evenly mixed" }
           ]
         },
         {
